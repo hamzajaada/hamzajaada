@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm hamza jaada</h1>
-<h3 align="center">A passionate developer from Moroco</h3>
+<h3 align="center">A passionate developer from Morocco</h3>
 <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" />
 
 - 🔭 I’m currently working on [EIC-S-web-site](https://github.com/hamzajaada/EIC-S-web-site)
